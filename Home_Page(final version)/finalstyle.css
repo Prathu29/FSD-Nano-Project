@@ -4,7 +4,7 @@ body {
 }
 
 
-/* #myvideo {
+ #myvideo {
     z-index: -99;
     position: fixed;
     right: 0;
@@ -17,7 +17,7 @@ body {
 } */
 
 
-/* .navbar {
+ .navbar {
     height: 12%;
     display: flex;
     align-items: stretch;
@@ -31,12 +31,12 @@ nav {
     height: 100%;
     padding: 10px 90px;
     box-sizing: border-box;
-    /*background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.6);
        border-bottom: 1px solid #fff;
        transform: translate(-50%, -50%);}*/
 
 
-/* nav .logo {
+ nav .logo {
     padding: 22px 20px;
     height: 80px;
     float: left;
@@ -292,7 +292,7 @@ nav li a:hover .back {
 }
 
 
-/*body::before{
+body::before{
     content: '';
     position: absolute;
     top: 0;
@@ -388,7 +388,7 @@ body::after {
 }
 
 
-/*body{
+body{
         margin: 0;
         padding: 0;
         height: 100vh;
@@ -409,13 +409,13 @@ footer {
 }
 
 
-/* .align:hover .un {
+.align:hover .un {
     background-color: #282a28;
-} */
+} 
 
 
-/* section {
+ section {
     height: 100%;
     width: 100%;
     display: flex;
-} */
+} 
